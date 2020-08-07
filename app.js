@@ -7,9 +7,6 @@ import ClientInfo from "./pages/clientinfo.js"
 
 import store from "./store/_stores.js"
 
-
-document.querySelector("#bug").textContent = "OI";
-
 // MUDANçA
 
 /// VUE SETTINGS ////////////////////////////////////////////////////////////
