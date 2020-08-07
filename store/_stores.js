@@ -1,6 +1,6 @@
 /// DEPENDENCIES ////////////////////////////////////////////////////////////
 // import Service from "./service.js"
-import { update, post, ping } from "../scripts/db_sheetbest.js"
+import { update, post, ping } from "../scripts/db_apispreadsheets.js"
 import Memory from "../scripts/local.js"
 
 /// MAIN STORE SETUP /////////////////////////////////////////////////////////
